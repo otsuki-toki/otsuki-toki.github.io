@@ -1,5 +1,11 @@
-window.NOTES_UPDATED = "2026-10-13 00:03";
+window.NOTES_UPDATED = "2026-10-13 11:26";
 window.NOTES = [
+ {
+  "date": "2026.10.13",
+  "title": "ネットに顔を晒して生きているのに、情報漏洩が怖い。",
+  "url": "https://note.com/toki_skyxros/n/n3fd36eac185e",
+  "img": "https://assets.st-note.com/production/uploads/images/323999104/rectangle_large_type_2_c973dfb397f6cefe8fb4226688325bf7.jpeg?width=800"
+ },
  {
   "date": "2026.10.06",
   "title": "ファウストは悪魔と契約した。僕は24歳にして、膀胱とにゃむにゃむと戦っています。",
