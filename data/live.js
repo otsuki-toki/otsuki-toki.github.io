@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-14 20:02";
+window.LIVE_UPDATED = "2026-10-15 01:22";
 window.LIVE = [
-  {
-    "date": "2026.10.14",
-    "dow": "WED",
-    "title": "Papillon vol.107",
-    "place": ""
-  },
   {
     "date": "2026.10.15",
     "dow": "THU",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.04",
     "dow": "WED",
     "title": "rock field ULTRA LIVE 1104 -いい推しの日 ︎- ︎ ︎",
+    "place": ""
+  },
+  {
+    "date": "2026.11.05",
+    "dow": "THU",
+    "title": "沖縄ライブチケット発売日",
     "place": ""
   }
 ];
