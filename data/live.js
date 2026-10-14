@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-10-14 07:13";
+window.LIVE_UPDATED = "2026-10-14 12:13";
 window.LIVE = [
   {
     "date": "2026.10.14",
@@ -15,7 +15,7 @@ window.LIVE = [
   {
     "date": "2026.10.17",
     "dow": "SAT",
-    "title": "ライブ予定",
+    "title": "せばすちゃん！vol.47",
     "place": ""
   },
   {
@@ -51,7 +51,7 @@ window.LIVE = [
   {
     "date": "2026.10.28",
     "dow": "WED",
-    "title": "ライブ予定",
+    "title": "YUKIYA BIRTHDAY LIVE2026",
     "place": ""
   },
   {
@@ -69,7 +69,7 @@ window.LIVE = [
   {
     "date": "2026.11.04",
     "dow": "WED",
-    "title": "ライブ予定",
+    "title": "rock field ULTRA LIVE 1104 -いい推しの日 ︎- ︎ ︎",
     "place": ""
   }
 ];
