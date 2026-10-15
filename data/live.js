@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-15 19:44";
+window.LIVE_UPDATED = "2026-10-16 01:10";
 window.LIVE = [
-  {
-    "date": "2026.10.15",
-    "dow": "THU",
-    "title": "たすくの楽しい酒催 vol.5",
-    "place": ""
-  },
   {
     "date": "2026.10.17",
     "dow": "SAT",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.05",
     "dow": "THU",
     "title": "沖縄ライブチケット発売日",
+    "place": ""
+  },
+  {
+    "date": "2026.11.09",
+    "dow": "MON",
+    "title": "ライブ予定",
     "place": ""
   }
 ];
