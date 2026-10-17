@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-17 23:50";
+window.LIVE_UPDATED = "2026-10-18 04:59";
 window.LIVE = [
-  {
-    "date": "2026.10.17",
-    "dow": "SAT",
-    "title": "せばすちゃん！vol.47",
-    "place": ""
-  },
   {
     "date": "2026.10.21",
     "dow": "WED",
@@ -69,6 +63,12 @@ window.LIVE = [
   {
     "date": "2026.11.09",
     "dow": "MON",
+    "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.10",
+    "dow": "TUE",
     "title": "ライブ予定",
     "place": ""
   }
