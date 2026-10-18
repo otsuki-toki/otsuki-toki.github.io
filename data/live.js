@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-10-19 00:15";
+window.LIVE_UPDATED = "2026-10-19 04:59";
 window.LIVE = [
   {
     "date": "2026.10.21",
@@ -15,19 +15,19 @@ window.LIVE = [
   {
     "date": "2026.10.25",
     "dow": "SUN",
-    "title": "ライブ予定",
+    "title": "ぱせお 085号室",
     "place": ""
   },
   {
     "date": "2026.10.26",
     "dow": "MON",
-    "title": "ライブ予定",
+    "title": "らぶラビット vol.30",
     "place": ""
   },
   {
     "date": "2026.10.27",
     "dow": "TUE",
-    "title": "ライブ予定",
+    "title": "Strike up! vol.5",
     "place": ""
   },
   {
@@ -45,7 +45,7 @@ window.LIVE = [
   {
     "date": "2026.11.02",
     "dow": "MON",
-    "title": "ライブ予定",
+    "title": "NEON VOID vol.6",
     "place": ""
   },
   {
