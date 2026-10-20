@@ -1,5 +1,11 @@
-window.NOTES_UPDATED = "2026-10-20 03:05";
+window.NOTES_UPDATED = "2026-10-20 10:50";
 window.NOTES = [
+ {
+  "date": "2026.10.20",
+  "title": "道に落ちてる豆腐から、クライアントワークの難しさを学んだ。",
+  "url": "https://note.com/toki_skyxros/n/n82e84e217617",
+  "img": "https://assets.st-note.com/production/uploads/images/326427587/rectangle_large_type_2_3422d2a3d55d5ebd4d48f02ab35aaeff.jpeg?width=800"
+ },
  {
   "date": "2026.10.13",
   "title": "ネットに顔を晒して生きているのに、情報漏洩が怖い。",
