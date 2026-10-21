@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-21 20:01";
+window.LIVE_UPDATED = "2026-10-22 01:29";
 window.LIVE = [
-  {
-    "date": "2026.10.21",
-    "dow": "WED",
-    "title": "【ぜろえん！vol.22】",
-    "place": ""
-  },
   {
     "date": "2026.10.23",
     "dow": "FRI",
@@ -69,6 +63,12 @@ window.LIVE = [
   {
     "date": "2026.11.10",
     "dow": "TUE",
+    "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.12",
+    "dow": "THU",
     "title": "ライブ予定",
     "place": ""
   }
