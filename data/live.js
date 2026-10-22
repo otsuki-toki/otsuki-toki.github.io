@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-10-23 01:29";
+window.LIVE_UPDATED = "2026-10-23 06:07";
 window.LIVE = [
   {
     "date": "2026.10.23",
@@ -63,7 +63,7 @@ window.LIVE = [
   {
     "date": "2026.11.10",
     "dow": "TUE",
-    "title": "ライブ予定",
+    "title": "MMIX！ vol.1",
     "place": ""
   },
   {
