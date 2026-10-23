@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-23 19:54";
+window.LIVE_UPDATED = "2026-10-24 01:19";
 window.LIVE = [
-  {
-    "date": "2026.10.23",
-    "dow": "FRI",
-    "title": "ONE LOVE Vol.5",
-    "place": ""
-  },
   {
     "date": "2026.10.25",
     "dow": "SUN",
@@ -69,6 +63,12 @@ window.LIVE = [
   {
     "date": "2026.11.12",
     "dow": "THU",
+    "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.15",
+    "dow": "SUN",
     "title": "ライブ予定",
     "place": ""
   }
