@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-10-26 00:26";
+window.LIVE_UPDATED = "2026-10-26 05:18";
 window.LIVE = [
   {
     "date": "2026.10.26",
@@ -21,7 +21,7 @@ window.LIVE = [
   {
     "date": "2026.10.31",
     "dow": "SAT",
-    "title": "[ ] minutes×minutes vol.64 - Halloween SP -",
+    "title": "ライブ予定",
     "place": ""
   },
   {
