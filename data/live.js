@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-25 19:34";
+window.LIVE_UPDATED = "2026-10-26 00:26";
 window.LIVE = [
-  {
-    "date": "2026.10.25",
-    "dow": "SUN",
-    "title": "ぱせお 085号室",
-    "place": ""
-  },
   {
     "date": "2026.10.26",
     "dow": "MON",
@@ -27,7 +21,7 @@ window.LIVE = [
   {
     "date": "2026.10.31",
     "dow": "SAT",
-    "title": "ライブ予定",
+    "title": "[ ] minutes×minutes vol.64 - Halloween SP -",
     "place": ""
   },
   {
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.15",
     "dow": "SUN",
     "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.16",
+    "dow": "MON",
+    "title": "よもぎもぎ生誕祭",
     "place": ""
   }
 ];
