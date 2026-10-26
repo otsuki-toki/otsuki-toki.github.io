@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-26 21:07";
+window.LIVE_UPDATED = "2026-10-27 07:12";
 window.LIVE = [
-  {
-    "date": "2026.10.26",
-    "dow": "MON",
-    "title": "らぶラビット vol.30",
-    "place": ""
-  },
   {
     "date": "2026.10.27",
     "dow": "TUE",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.16",
     "dow": "MON",
     "title": "よもぎもぎ生誕祭",
+    "place": ""
+  },
+  {
+    "date": "2026.11.17",
+    "dow": "TUE",
+    "title": "ライブ予定",
     "place": ""
   }
 ];
