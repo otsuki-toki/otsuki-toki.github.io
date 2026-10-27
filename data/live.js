@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-27 20:28";
+window.LIVE_UPDATED = "2026-10-28 02:18";
 window.LIVE = [
-  {
-    "date": "2026.10.27",
-    "dow": "TUE",
-    "title": "Strike up! vol.5",
-    "place": ""
-  },
   {
     "date": "2026.10.28",
     "dow": "WED",
@@ -69,6 +63,12 @@ window.LIVE = [
   {
     "date": "2026.11.17",
     "dow": "TUE",
+    "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.18",
+    "dow": "WED",
     "title": "ライブ予定",
     "place": ""
   }
