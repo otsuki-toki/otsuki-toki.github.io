@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-28 20:58";
+window.LIVE_UPDATED = "2026-10-29 03:12";
 window.LIVE = [
-  {
-    "date": "2026.10.28",
-    "dow": "WED",
-    "title": "YUKIYA BIRTHDAY LIVE2026",
-    "place": ""
-  },
   {
     "date": "2026.10.31",
     "dow": "SAT",
@@ -69,6 +63,12 @@ window.LIVE = [
   {
     "date": "2026.11.18",
     "dow": "WED",
+    "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.20",
+    "dow": "FRI",
     "title": "ライブ予定",
     "place": ""
   }
