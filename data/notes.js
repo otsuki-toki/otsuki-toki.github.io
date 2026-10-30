@@ -1,5 +1,11 @@
-window.NOTES_UPDATED = "2026-10-30 04:02";
+window.NOTES_UPDATED = "2026-10-30 12:00";
 window.NOTES = [
+ {
+  "date": "2026.10.30",
+  "title": "片手だけ素手のSWAT、犯人は善意だった",
+  "url": "https://note.com/toki_skyxros/n/nb4da7e95e9ee",
+  "img": "https://assets.st-note.com/production/uploads/images/330191655/rectangle_large_type_2_e48b23f7fa00ce836a5b2451a27e7fda.jpeg?width=800"
+ },
  {
   "date": "2026.10.20",
   "title": "道に落ちてる豆腐から、クライアントワークの難しさを学んだ。",
