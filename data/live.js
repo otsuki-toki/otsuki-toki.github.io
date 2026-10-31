@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-10-31 06:53";
+window.LIVE_UPDATED = "2026-10-31 12:47";
 window.LIVE = [
   {
     "date": "2026.10.31",
@@ -27,7 +27,7 @@ window.LIVE = [
   {
     "date": "2026.11.09",
     "dow": "MON",
-    "title": "ライブ予定",
+    "title": "[ ] ぱせお 086号室",
     "place": ""
   },
   {
@@ -39,7 +39,7 @@ window.LIVE = [
   {
     "date": "2026.11.12",
     "dow": "THU",
-    "title": "ライブ予定",
+    "title": "せんえん！vol.23",
     "place": ""
   },
   {
