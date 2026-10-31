@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-10-31 20:35";
+window.LIVE_UPDATED = "2026-11-01 01:43";
 window.LIVE = [
-  {
-    "date": "2026.10.31",
-    "dow": "SAT",
-    "title": "[ ] minutes×minutes vol.64 - Halloween SP -",
-    "place": ""
-  },
   {
     "date": "2026.11.02",
     "dow": "MON",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.20",
     "dow": "FRI",
     "title": "ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.11.23",
+    "dow": "MON",
+    "title": "ABBY’S COLLECTION Vol.77",
     "place": ""
   }
 ];
