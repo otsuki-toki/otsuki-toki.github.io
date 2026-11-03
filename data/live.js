@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-02 23:35";
+window.LIVE_UPDATED = "2026-11-03 09:23";
 window.LIVE = [
-  {
-    "date": "2026.11.02",
-    "dow": "MON",
-    "title": "NEON VOID vol.6",
-    "place": ""
-  },
   {
     "date": "2026.11.04",
     "dow": "WED",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.23",
     "dow": "MON",
     "title": "ABBY’S COLLECTION Vol.77",
+    "place": ""
+  },
+  {
+    "date": "2026.11.26",
+    "dow": "THU",
+    "title": "沖縄遠征予定",
     "place": ""
   }
 ];
