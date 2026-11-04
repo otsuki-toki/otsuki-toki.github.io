@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-04 22:41";
+window.LIVE_UPDATED = "2026-11-05 08:06";
 window.LIVE = [
-  {
-    "date": "2026.11.04",
-    "dow": "WED",
-    "title": "rock field ULTRA LIVE 1104 -いい推しの日 ︎- ︎ ︎",
-    "place": ""
-  },
   {
     "date": "2026.11.05",
     "dow": "THU",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.11.26",
     "dow": "THU",
     "title": "沖縄遠征予定",
+    "place": ""
+  },
+  {
+    "date": "2026.12.22",
+    "dow": "TUE",
+    "title": "SKYXROS解散LIVE",
     "place": ""
   }
 ];
