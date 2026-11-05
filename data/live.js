@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-05 22:53";
+window.LIVE_UPDATED = "2026-11-06 08:11";
 window.LIVE = [
-  {
-    "date": "2026.11.05",
-    "dow": "THU",
-    "title": "沖縄ライブチケット発売日",
-    "place": ""
-  },
   {
     "date": "2026.11.09",
     "dow": "MON",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.12.22",
     "dow": "TUE",
     "title": "SKYXROS解散LIVE",
+    "place": ""
+  },
+  {
+    "date": "2026.12.23",
+    "dow": "WED",
+    "title": "アフター撮影会",
     "place": ""
   }
 ];
