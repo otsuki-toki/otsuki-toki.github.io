@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-09 23:57";
+window.LIVE_UPDATED = "2026-11-10 10:05";
 window.LIVE = [
-  {
-    "date": "2026.11.09",
-    "dow": "MON",
-    "title": "[ ] ぱせお 086号室",
-    "place": ""
-  },
   {
     "date": "2026.11.10",
     "dow": "TUE",
