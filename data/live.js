@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-10 23:10";
+window.LIVE_UPDATED = "2026-11-11 07:44";
 window.LIVE = [
-  {
-    "date": "2026.11.10",
-    "dow": "TUE",
-    "title": "MMIX！ vol.1",
-    "place": ""
-  },
   {
     "date": "2026.11.12",
     "dow": "THU",
