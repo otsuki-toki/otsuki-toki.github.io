@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-11-11 22:26";
+window.LIVE_UPDATED = "2026-11-12 08:57";
 window.LIVE = [
   {
     "date": "2026.11.12",
@@ -49,15 +49,27 @@ window.LIVE = [
     "place": ""
   },
   {
-    "date": "2026.12.22",
-    "dow": "TUE",
-    "title": "SKYXROS解散LIVE",
+    "date": "2026.12.02",
+    "dow": "WED",
+    "title": "[ ]ライブ予定",
     "place": ""
   },
   {
-    "date": "2026.12.23",
-    "dow": "WED",
-    "title": "アフター撮影会",
+    "date": "2026.12.03",
+    "dow": "THU",
+    "title": "[ ] HEROISM",
+    "place": ""
+  },
+  {
+    "date": "2026.12.04",
+    "dow": "FRI",
+    "title": "[ ]ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.12.07",
+    "dow": "MON",
+    "title": "Challenge Fes",
     "place": ""
   }
 ];
