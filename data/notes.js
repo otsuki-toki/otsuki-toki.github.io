@@ -1,5 +1,11 @@
-window.NOTES_UPDATED = "2026-11-11 04:20";
+window.NOTES_UPDATED = "2026-11-11 13:26";
 window.NOTES = [
+ {
+  "date": "2026.11.11",
+  "title": "メン地下というガラパゴスから本土に出たら、駆除されかけた",
+  "url": "https://note.com/toki_skyxros/n/n3717ea222999",
+  "img": "https://assets.st-note.com/production/uploads/images/334960117/rectangle_large_type_2_96cc3b57a205de1be6154b2d1ea4ea75.png?width=800"
+ },
  {
   "date": "2026.10.30",
   "title": "片手だけ素手のSWAT、犯人は善意だった",
@@ -29,11 +35,5 @@ window.NOTES = [
   "title": "メン地下の煽りはオナニーなのか",
   "url": "https://note.com/toki_skyxros/n/n561f33928f0c",
   "img": "https://assets.st-note.com/production/uploads/images/319257372/rectangle_large_type_2_018374d118b36cd29f534f9351d1a706.jpeg?width=800"
- },
- {
-  "date": "2026.09.22",
-  "title": "ゆる日記始めました。",
-  "url": "https://note.com/toki_skyxros/n/ndfbe351457b8",
-  "img": "https://assets.st-note.com/production/uploads/images/316234816/rectangle_large_type_2_94789de3959cc7a49850b483e3df296c.jpeg?width=800"
  }
 ];
