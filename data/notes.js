@@ -1,5 +1,11 @@
-window.NOTES_UPDATED = "2026-11-14 12:52";
+window.NOTES_UPDATED = "2026-11-14 21:54";
 window.NOTES = [
+ {
+  "date": "2026.11.14",
+  "title": "土偶は、縄文時代のアイドルだったのかもしれない",
+  "url": "https://note.com/toki_skyxros/n/nc4d45458ef72",
+  "img": ""
+ },
  {
   "date": "2026.11.11",
   "title": "メン地下というガラパゴスから本土に出たら、駆除されかけた",
@@ -29,11 +35,5 @@ window.NOTES = [
   "title": "ファウストは悪魔と契約した。僕は24歳にして、膀胱とにゃむにゃむと戦っています。",
   "url": "https://note.com/toki_skyxros/n/n776cd758cc72",
   "img": "https://assets.st-note.com/production/uploads/images/321297983/rectangle_large_type_2_64d799eb9ccc375dbc56d3e2d3315595.jpeg?width=800"
- },
- {
-  "date": "2026.09.30",
-  "title": "メン地下の煽りはオナニーなのか",
-  "url": "https://note.com/toki_skyxros/n/n561f33928f0c",
-  "img": "https://assets.st-note.com/production/uploads/images/319257372/rectangle_large_type_2_018374d118b36cd29f534f9351d1a706.jpeg?width=800"
  }
 ];
