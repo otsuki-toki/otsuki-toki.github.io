@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-15 22:20";
+window.LIVE_UPDATED = "2026-11-16 07:24";
 window.LIVE = [
-  {
-    "date": "2026.11.15",
-    "dow": "SUN",
-    "title": "[ ]minutes×minutes vol.65",
-    "place": ""
-  },
   {
     "date": "2026.11.16",
     "dow": "MON",
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.12.07",
     "dow": "MON",
     "title": "Challenge Fes",
+    "place": ""
+  },
+  {
+    "date": "2026.12.08",
+    "dow": "TUE",
+    "title": "3MANライブ",
     "place": ""
   }
 ];
