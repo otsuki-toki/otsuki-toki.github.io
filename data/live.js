@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-11-15 13:29";
+window.LIVE_UPDATED = "2026-11-15 22:20";
 window.LIVE = [
   {
     "date": "2026.11.15",
@@ -39,7 +39,13 @@ window.LIVE = [
   {
     "date": "2026.11.26",
     "dow": "THU",
-    "title": "沖縄遠征予定",
+    "title": "SKYXROS ヒカリトナリ沖縄遠征 １日目",
+    "place": ""
+  },
+  {
+    "date": "2026.11.27",
+    "dow": "FRI",
+    "title": "SKYXROS ヒカリトナリ沖縄遠征 ２日目",
     "place": ""
   },
   {
@@ -64,12 +70,6 @@ window.LIVE = [
     "date": "2026.12.07",
     "dow": "MON",
     "title": "Challenge Fes",
-    "place": ""
-  },
-  {
-    "date": "2026.12.08",
-    "dow": "TUE",
-    "title": "3MANライブ",
     "place": ""
   }
 ];
