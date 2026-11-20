@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-20 23:47";
+window.LIVE_UPDATED = "2026-11-21 08:36";
 window.LIVE = [
-  {
-    "date": "2026.11.20",
-    "dow": "FRI",
-    "title": "[ ]REKISEN-歴戦-十六戦目",
-    "place": ""
-  },
   {
     "date": "2026.11.23",
     "dow": "MON",
@@ -69,6 +63,12 @@ window.LIVE = [
   {
     "date": "2026.12.16",
     "dow": "WED",
+    "title": "[ ]ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.12.18",
+    "dow": "FRI",
     "title": "[ ]ライブ予定",
     "place": ""
   }
