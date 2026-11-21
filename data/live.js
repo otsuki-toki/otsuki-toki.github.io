@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-11-21 14:18";
+window.LIVE_UPDATED = "2026-11-21 23:03";
 window.LIVE = [
   {
     "date": "2026.11.23",
