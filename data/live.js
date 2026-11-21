@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-11-21 23:03";
+window.LIVE_UPDATED = "2026-11-22 07:41";
 window.LIVE = [
   {
     "date": "2026.11.23",
@@ -21,7 +21,7 @@ window.LIVE = [
   {
     "date": "2026.12.02",
     "dow": "WED",
-    "title": "[ ]ライブ予定",
+    "title": "[ ] Papillon vol.113",
     "place": ""
   },
   {
