@@ -1,11 +1,5 @@
-window.LIVE_UPDATED = "2026-11-23 14:22";
+window.LIVE_UPDATED = "2026-11-24 02:10";
 window.LIVE = [
-  {
-    "date": "2026.11.23",
-    "dow": "MON",
-    "title": "ABBY’S COLLECTION Vol.77",
-    "place": ""
-  },
   {
     "date": "2026.11.26",
     "dow": "THU",
@@ -33,7 +27,7 @@ window.LIVE = [
   {
     "date": "2026.12.04",
     "dow": "FRI",
-    "title": "[ ]ライブ予定",
+    "title": "[ ] しゃけ生誕祭 OTONARI Vol.17",
     "place": ""
   },
   {
@@ -70,6 +64,12 @@ window.LIVE = [
     "date": "2026.12.18",
     "dow": "FRI",
     "title": "[ ]ライブ予定",
+    "place": ""
+  },
+  {
+    "date": "2026.12.22",
+    "dow": "TUE",
+    "title": "SKYXROS解散LIVE",
     "place": ""
   }
 ];
