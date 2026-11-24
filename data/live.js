@@ -1,4 +1,4 @@
-window.LIVE_UPDATED = "2026-11-24 12:44";
+window.LIVE_UPDATED = "2026-11-25 01:52";
 window.LIVE = [
   {
     "date": "2026.11.26",
@@ -27,7 +27,7 @@ window.LIVE = [
   {
     "date": "2026.12.04",
     "dow": "FRI",
-    "title": "[ ]ライブ予定",
+    "title": "[ ] しゃけ生誕祭 OTONARI Vol.17",
     "place": ""
   },
   {
